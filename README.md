@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software & AI Engineering<br>Python<br>Javascript<br>Web Development
+Software Engineering<br>Python<br>Javascript<br>C++
 
 
 ## 🌐 Socials:
